@@ -1,0 +1,10 @@
+{
+  "name": "openaq-vox",
+  "description": "Alexa skill for OpenAQ platform",
+  "memory": 128,
+  "timeout": 15,
+  "role": "arn:aws:iam::470049585876:role/openaq-vox_lambda_function",
+  "environment": {
+    "API_URL": "https://api.openaq.org/"
+  }
+}

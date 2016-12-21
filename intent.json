@@ -1,0 +1,19 @@
+{
+  "intents": [
+    {
+      "intent": "GetAirQualityOverview"
+    },
+    {
+      "intent": "GetAirQualityWHO"
+    },
+    {
+      "intent": "GetDisclaimer"
+    },
+    {
+      "intent": "GetHelp"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    }
+  ]
+}
